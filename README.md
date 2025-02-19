@@ -1,15 +1,12 @@
 <h1 align="center">Hi~ 🌺</h1>
-<h3 align="center">Founder of Kitty Games</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmakittygirl&label=Profile%20views&color=0e75b6&style=flat" alt="emmakittygirl" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmakittygirl" alt="emmakittygirl" /></a> </p>
 
-- 💬 I speak **Native French & English**
+- 💬 I speak **Native French & Little English**
 
-- 🌱 I’m currently learning **C++, Unreal Engine, Blender**
-
-- 🤝 I’m looking for help with **Kitty Games**
+- 🌱 I’m currently learning **S&Box**
 
 - 💬 You can ask me about **Web Development**
 
